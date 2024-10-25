@@ -7,7 +7,7 @@ public class HolaProfe {
 		System.out.println("Hola mi nombre es Natanael Gómez");
 		System.out.println("Buenas, soy Manolo. Ahora debéis obtener los cambios desde Eclipse. No olividéis documentarlo con capturas de pantalla ");
 		System.out.println("Hola mi nombre es José Antonio Marín");
-
+		System.out.println("Cambio pa que de error");
 	}
 
 }
