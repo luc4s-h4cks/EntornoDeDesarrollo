@@ -8,6 +8,8 @@ public class HolaProfe {
 		System.out.println("Buenas, soy Manolo. Ahora debéis obtener los cambios desde Eclipse. No olividéis documentarlo con capturas de pantalla ");
 		System.out.println("Hola mi nombre es José Antonio Marín");
 		System.out.println("Cambio pa que de error");
+		System.out.println("Otro mensaje para dar error");
+
 	}
 
 }
